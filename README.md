@@ -1,6 +1,7 @@
 # Personal Website
 
 This is my first attempt at creating a fully responsive personal website using only HTML, CSS, and Bootstrap. The purpose of this project is to hone my front-end development skills before integrating logic with JavaScript.
+🔗[Explore my website!](https://mariamtamer986.github.io/personal-site/)
 
 ## 🌟 About the Project
 - The website serves as a brief introduction about me.
